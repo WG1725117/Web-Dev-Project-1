@@ -1,0 +1,200 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+#menu a {
+    border-bottom: 	#5cb85c solid 2px;
+}
+#menu a:hover {
+    border-bottom: 	#5cb85c solid 3px;
+}
+#page-idicator {
+    border-bottom: #5cb85c solid 1px;
+}
+
+.navbar-brand{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-width: 350px;
+}
+.navbar-nav > li > a, .navbar-brand {
+    height: 50px;
+}
+.navbar-brand img{
+    height: 100%;
+    min-width: 350px;
+}
+
+.navbar-inverse {
+  background-color:#0A0A0A;
+  background-color:#0A0A0A;
+  background-repeat: no-repeat;
+  border-bottom: teal solid 0px;
+ }
+.dropdown-menu {
+  background-color: #0A0A0A;
+  background-repeat: no-repeat;
+    border-bottom: 0px;
+ }
+.dropdown-menu>li>a {
+    color: #FFFFFF;
+}
+.dropdown-menu>li>a:hover {
+    background-color: #0A0A0A;
+    background-image: none;
+    color: #FFF;
+}
+.mycarouselimg{
+    width: 100%;
+    min-width: 1400px;
+    margin-top: 50px;
+}
+@media screen and (max-width:1400px) {
+  #myCarousel{
+    display: none;
+  }
+}
+.article1 {
+    border: #5cb85c solid 3px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 110px;
+}
+.article1text{
+    max-height: 100px;
+    overflow: hidden;
+}
+.article2{
+    border: #5cb85c solid 3px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 110px;
+}
+.article2text{
+    max-height: 100px;
+    overflow: hidden;
+    padding-right: 5px;
+}
+.article3 {
+    border: #0A0A0A solid 3px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+.article3text{
+    max-height: 100px;
+    overflow: hidden;
+}
+.article4{
+    border: #0A0A0A solid 3px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+.article4text{
+    max-height: 100px;
+    overflow: hidden;
+    padding-right: 5px;
+}
+.MyImageBanner{
+    width: 100%;
+}
+.MyImageBannerImg{
+    width: 100%;
+    margin-top: 50px;
+}
+.SumTempHead1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.SumTempArt1{
+    border-bottom: #0A0A0A solid 1px;
+    width: 150%;
+}
+.SumTempArt2{
+    border-bottom: #0A0A0A solid 1px;
+    width: 150%;
+}
+.SumTempArt3{
+    border-bottom: #0A0A0A solid 1px;
+    width: 150%;
+}
+.SumTempArt4{
+    border-bottom: #0A0A0A solid 1px;
+    width: 150%;
+}
+.SumTempArt5{
+    border-bottom: #0A0A0A solid 1px;
+    width: 150%;
+    margin-bottom: 100px;
+}
+.SumTempArt6{
+    border-bottom: #0A0A0A solid 1px;
+    width: 90%;
+    float: right;
+}
+.SumTempArt7{
+    border-bottom: #0A0A0A solid 1px;
+    width: 90%;
+    float: right;
+}
+.SumTempArt8{
+    border-bottom: #0A0A0A solid 1px;
+    width: 90%;
+    float: right;
+}
+.SumTempArt9{
+    border-bottom: #0A0A0A solid 1px;
+    width: 90%;
+    float: right;
+}
+.SumTempArt10{
+    border-bottom: #0A0A0A solid 1px;
+    width: 90%;
+    float: right;
+}
+.SumTempHead1img{
+  width: 125px;
+  height: 475px;
+  margin-left: 125px;
+}
+#SumTempHead1img{
+  width: 100%;
+  height: 100%;
+}
+.SumTempHead2{
+    margin-top: 100px;
+    text-align: right;
+    margin-bottom: 50px;
+}
+.MainArticle{
+  margin-right: 25px;
+  margin-bottom: 75px;
+}
+.ReviewTitle{
+  text-align: center;
+  margin-top: 25%;
+  border-bottom: #5cb85c solid 2px;
+}
+#ReviewSub{
+  margin-top: 0;
+}
+.ReviewImg{
+  width: 100%;
+  padding-bottom: 25px;
+}
+.ArticleList{
+  margin-left: 25px;
+}
+.myfooter{
+    position: static;
+    left: 0;
+    width: 100%;
+    top: 100%;
+    height: 100%;
+}
